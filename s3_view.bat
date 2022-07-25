@@ -1,0 +1,1 @@
+python ui.py  -nop 2 -r DEV -p s3\view -pa bucket key   -la list_s3_objects_searcheable_2_scan
